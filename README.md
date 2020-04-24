@@ -1,0 +1,2 @@
+# SolveTheseProblems
+Critical thinking project
