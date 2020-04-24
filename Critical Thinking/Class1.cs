@@ -17,7 +17,7 @@ namespace Critical_Thinking
         //Member Methods (CAN DO)
         public void RunLoop() 
         { 
-            for (int i = 0; i < 5; i++) 
+            for (int i = 9; i < 10; i--) 
             {
                 Console.WriteLine(i);
                 Console.ReadLine();
